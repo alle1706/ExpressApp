@@ -11,12 +11,13 @@ The Word List App is a simple and intuitive mobile application designed to help 
 ## Screenshots
 
 ### Word List View
-![Word List View](https://github.com/user-attachments/assets/6885e5d8-a693-4c17-89b0-7f3ec494abeb)
+<img src="https://github.com/user-attachments/assets/6885e5d8-a693-4c17-89b0-7f3ec494abeb" alt="Word List View" width="400">
+
 
 The main screen displays a list of all saved words. Users can search for specific words or tap the information icon to see their details.
 
 ### Add Words View
-![Add Words View](https://github.com/user-attachments/assets/909bfcf5-e1c3-41c3-91bf-a3675f601e73)
+<img src="https://github.com/user-attachments/assets/909bfcf5-e1c3-41c3-91bf-a3675f601e73" alt="Add Words View" width="400">
 
 This screen allows users to add a new word or phrase along with its corresponding meaning or translation. Simply fill in the fields and press "Add."
 
